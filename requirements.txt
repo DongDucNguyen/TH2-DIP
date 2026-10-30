@@ -1,0 +1,12 @@
+numpy
+opencv-python-headless
+scikit-image
+scikit-learn
+scipy
+matplotlib
+# chỉ cần để dựng notebook / báo cáo:
+nbformat
+nbconvert
+ipykernel
+reportlab
+pillow
